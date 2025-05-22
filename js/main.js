@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('HBDD BUAT PART 2 NYA NAB SELAMA MENUWA').split('')
+    const titles = ('HBDD NABB SELAMAT MENUA NABB MENJADI 19 THN').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
